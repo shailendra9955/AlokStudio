@@ -8,7 +8,7 @@ export default function ContactPage() {
     <main className="page-main">
       <div className="container">
         <section className="panel">
-          <div className="eyebrow">Let's talk</div>
+          <div className="eyebrow">Let&apos;s talk</div>
           <h1 className="page-title">Contact Alok Studio</h1>
           <p>
             Tell us about your event or photography needs. We will connect this page
